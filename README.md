@@ -1,5 +1,5 @@
 # Portfolio
-Källkoden till projekt som visas i mitt portfolio.
+A few examples from my hobby projects
 
 * 2D multiplayer boss battle
 * Multi agent path planning
